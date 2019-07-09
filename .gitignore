@@ -1,0 +1,12 @@
+arduino/.pio
+arduino/.pioenvs
+arduino/.piolibdeps
+
+arduino/.vscode/*
+!arduino/.vscode/settings.json
+!arduino/.vscode/tasks.json
+!arduino/.vscode/launch.json
+!arduino/.vscode/extensions.json
+
+*.o
+*.d
